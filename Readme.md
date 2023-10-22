@@ -1,5 +1,5 @@
 ### Hi there <img src="https://raw.githubusercontent.com/Restuananda/Restuananda/master/styles/Hi.gif" width="30px">
-* Welcome to my virtual workspace, feel free to check out my [website](https://satrya.zeroinside.id) and [blog](https://blog.zeroinside.id).
+* Welcome to my virtual workspace<!--, feel free to check out my [website](https://satrya.zeroinside.id) and [blog](https://blog.zeroinside.id).-->
 
 #### Currently Working on
 <!-- * [Zero-PrayerTimes](https://github.com/Restuananda/Zero-PrayerTimes) - *A simple prayer time that will play adhan sound with doa in foreground as a Linux CLI application.*
@@ -8,9 +8,9 @@
 -->
 
 #### I Work with
-* 💻 [ Python | Ruby | Golang | C++ | C# | Java | JavaScript | PHP | HTML | CSS | Scala | C ]
+* 💻 [ C | C++ | Java | Rust | Kotlin | Scala | Python | Go | Ruby | Java Script | PHP]
 * ☁ [ Linux ]
-* :white_square_button: [PyCharm Professional | Ruby Mine | WebStorm | GoLand | Visual Studio Code | Android Studio]
+* :white_square_button: [ Hackerearth | CodeForces | Kaggle | Visual Studio Code | Android Studio]
 
 #### Some Completed Stuff
 <!--* [ZeroTF Docker Stack](https://github.com/Restuananda/ZeroTF-Docker-Stack) - *TensorFlow with GPU enabled, Jupyter, Code-Server in Docker.*
@@ -31,15 +31,14 @@
 
 </div>
 
-#### Other Social Medias
 <!--<p align="center">
     <a href="https://linkedin.com/in/satrya-budi-pratama"><img src="https://img.shields.io/badge/-Satrya%20Budi%20Pratama-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
     <a href="mailto:satrya@zeroinside.id"><img src="https://img.shields.io/badge/-satrya@zeroinside.id-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
     </p>
 -->
 
-#### Additional
-<!-- <div align="center"> 
+<!-- #### Additional
+<div align="center"> 
     ⏳ Year progress |████████████████████████▁▁▁▁▁▁| 80.62 %
     <pre>
     <font color='#777777'>Weather:</font> 🌦   Light rain, +27°C, 94%, ↘13km/h, 1011hPa
