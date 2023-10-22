@@ -22,7 +22,7 @@
 #### My GitHub Statistics
 <div align="center"> 
 
-![](https://komarev.com/ghpvc/?username=Restuananda&color=brightgreen)
+<!--![](https://komarev.com/ghpvc/?username=Restuananda&color=brightgreen)-->
 
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Restuananda/langs?time_range=one_year&loc_metric=changed&compact=True&theme=bright_lights)](https://githubtrends.io)
 
