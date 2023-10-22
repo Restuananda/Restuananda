@@ -22,9 +22,9 @@
 #### My GitHub Statistics
 <div align="center"> 
 
-<!--![](https://komarev.com/ghpvc/?username=Restuananda&color=brightgreen)-->
+<!--![](https://komarev.com/ghpvc/?username=Restuananda&color=brightgreen)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Restuananda/langs?time_range=one_year&loc_metric=changed&compact=True&theme=bright_lights)](https://githubtrends.io)-->
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Restuananda/langs?time_range=one_year&loc_metric=changed&compact=True&theme=bright_lights)](https://githubtrends.io)
 
 [![Lang](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Restuananda&layout=compact&langs_count=8&hide_border=true&theme=algolia) ![Stats](https://github-readme-stats.vercel.app/api?username=Restuananda&show_icons=true&hide_border=true&theme=algolia)](https://github.com/Restuananda) 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Restuananda&count_private=true&theme=algolia&hide_border=true)
