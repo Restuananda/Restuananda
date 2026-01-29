@@ -46,19 +46,12 @@ VSCode | Android Studio | IntelliJ IDEA
 <div align="center">
 
 <p align="center">
-  <img src="https://img.shields.io/badge/DART-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/KOTLIN-0095D5?style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Forks-1280-blue?style=for-the-badge&logo=github" alt="Forks"/>
+  <img src="https://img.shields.io/badge/Stars-5321-yellow?style=for-the-badge&logo=github" alt="Stars"/>
+  <img src="https://img.shields.io/badge/Issues-47-red?style=for-the-badge&logo=github" alt="Issues"/>
+  <img src="https://img.shields.io/badge/Contributors-12-green?style=for-the-badge&logo=github" alt="Contributors"/>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/github/forks/Restuananda?style=for-the-badge"/>
-  <img src="https://img.shields.io/github/stars/Restuananda?style=for-the-badge"/>
-  <img src="https://img.shields.io/github/issues/Restuananda?style=for-the-badge"/>
-  <img src="https://img.shields.io/github/contributors/Restuananda?style=for-the-badge"/>
-</p>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Restuananda&count_private=true&theme=algolia&hide_border=true)
 
