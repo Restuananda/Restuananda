@@ -53,7 +53,12 @@ VSCode | Android Studio | IntelliJ IDEA
   <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 </p>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Restuananda&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/Restuananda)
+<p align="center">
+  <img src="https://img.shields.io/github/forks/Restuananda?style=for-the-badge"/>
+  <img src="https://img.shields.io/github/stars/Restuananda?style=for-the-badge"/>
+  <img src="https://img.shields.io/github/issues/Restuananda?style=for-the-badge"/>
+  <img src="https://img.shields.io/github/contributors/Restuananda?style=for-the-badge"/>
+</p>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Restuananda&count_private=true&theme=algolia&hide_border=true)
 
