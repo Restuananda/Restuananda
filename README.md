@@ -45,7 +45,14 @@ VSCode | Android Studio | IntelliJ IDEA
 #### 📊 GitHub Stats
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Restuananda&layout=compact&langs_count=8&hide_border=true&theme=algolia)](https://github.com/Restuananda)  
+<p align="center">
+  <img src="https://img.shields.io/badge/DART-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/KOTLIN-0095D5?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+</p>
+
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Restuananda&show_icons=true&hide_border=true&theme=algolia)](https://github.com/Restuananda)  
 
