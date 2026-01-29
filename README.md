@@ -4,40 +4,51 @@
 ---
 
 #### 🔭 Currently Working On
-- **[Zero-PrayerTimes](https://github.com/Restuananda/Zero-PrayerTimes)** – Linux CLI prayer times with Adhan & doa.  
-- **[Zerotwitty Assistant](https://github.com/Restuananda/Zerotwitty-Assistant)** – Personal Twitter bot powered by NLP.  
-- **[Golang Hands-On](https://github.com/Restuananda/Golang-Hands-On)** – Go tutorials from beginner to advanced with practice.  
+- **[Langgar.co - FE Developer](https:www.langgar.co)** – Linux CLI prayer times with Adhan & doa.  
+- **[singgasanakata - Full-Stack Developer](https:www.singgasanakata.com** – Personal Twitter bot powered by NLP.  
 - Exploring **AI/ML models**, **Next.js / mobile-first apps**, and **interactive web dashboards**.  
 
 ---
 
 #### 🛠️ Tech Stack & Tools
 **Languages:**  
-💻 C | C++ | Java | Rust | Kotlin | Scala | Python | Go | Ruby | JavaScript | PHP  
+💻 C | C++ | Java | Rust | Kotlin | Scala | Python | Go | Ruby | JavaScript | PHP | Dart | TypeScript | 
 
 **Platforms / Tools:**  
-☁ Linux | Docker | AWS | Vercel | Firebase  
+☁ Linux | Docker | AWS | Vercel | Firebase | CloudFlare | Google Cloud | Azure
 
 **Editors / IDEs:**  
 VSCode | Android Studio | IntelliJ IDEA  
 
-**Competitive Platforms:**  
-Hackerearth | Codeforces | Kaggle  
+#### 🏆 Competitive Platforms
+
+<p align="center">
+  <a href="https://www.hackerearth.com/@Restuananda" target="_blank">
+    <img alt="Hackerearth" src="https://img.shields.io/badge/-Hackerearth-2EC5E3?style=for-the-badge&logo=hackerearth&logoColor=white"/>
+  </a>
+  <a href="https://codeforces.com/profile/Restu" target="_blank">
+    <img alt="Codeforces" src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  </a>
+  <a href="https://www.kaggle.com/xkyotto" target="_blank">
+    <img alt="Kaggle" src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+  </a>
+</p>
+
 
 ---
 
 #### 🏆 Achievements & Completed Projects
-- **[ZeroTF Docker Stack](https://github.com/Restuananda/ZeroTF-Docker-Stack)** – TensorFlow GPU + Jupyter + Code-Server in Docker.  
-- **[Indonesia COVID-19 Analytics & Explorations](https://github.com/Restuananda/Indonesia-COVID-19-Analytics-n-Explorations)** – Data science explorations.  
-- **[DelftX ROS-1 Course](https://github.com/Restuananda/DelftX-ROS-1-Course)** – ROS1 robotics experiments.  
+
 
 ---
 
 #### 📊 GitHub Stats
 <div align="center">
 
-[![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Restuananda&layout=compact&langs_count=8&hide_border=true&theme=algolia)](https://github.com/Restuananda)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Restuananda&layout=compact&langs_count=8&hide_border=true&theme=algolia)](https://github.com/Restuananda)  
+
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Restuananda&show_icons=true&hide_border=true&theme=algolia)](https://github.com/Restuananda)  
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Restuananda&count_private=true&theme=algolia&hide_border=true)
 
 </div>
@@ -65,15 +76,15 @@ Hackerearth | Codeforces | Kaggle
 ⏳ Year progress |████████████████████████▁▁▁▁▁▁| 80.62 %  
 🌦 Weather: Light rain, +27°C, 94% humidity  
 ⏰ Timezone: Asia/Jakarta  
-📍 Location: Medan, Indonesia  
+📍 Location: Bandung, Indonesia  
 </div>
 
 ---
 
 #### 📫 Connect with Me
 <p align="center">
-<a href="https://linkedin.com/in/satrya-budi-pratama"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:satrya@zeroinside.id"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-<a href="https://www.kaggle.com/restuananda"><img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white"/></a>
-<a href="https://codeforces.com/profile/restuananda"><img src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/restu-ananda-saputra/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:restu_ananda@outlook.co.id"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+<a href="https://www.kaggle.com/xkyotto"><img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white"/></a>
+<a href="https://codeforces.com/profile/Restu"><img src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white"/></a>
 </p>
