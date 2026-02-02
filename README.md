@@ -4,8 +4,8 @@
 ---
 
 #### 🔭 Currently Working On
-- **[Langgar.co - FE Developer](https:www.langgar.co)** – The task focuses on revamping an existing WordPress theme by updating its user interface and user experience from an outdated design to a modern, clean, and user-friendly experience. This includes improving layout structure, navigation, visual consistency, responsiveness, and accessibility, while optimizing performance and ensuring compatibility with WordPress core and plugins. The goal is to deliver a refreshed, intuitive, and scalable theme that meets current design standards and enhances overall user engagement..  
-- **[singgasanakata.com - Web Developer](https:www.singgasanakat.com)** – This implementation provides a lightweight e-commerce solution for selling books, built with Next.js, React, Supabase, and Chakra UI. It prioritizes essential features such as product browsing, authentication, and order flow, supported by a clean UI and a modern backend that is easy to extend and maintain.  
+- **[Langgar.co - FE Developer](https:www.langgar.co)** – The task focuses on revamping an existing WordPress theme by updating its user interface and user experience from an outdated design to a modern, clean, and user-friendly experience.
+- **[singgasanakata.com - Web Developer](https:www.singgasanakat.com)** – This implementation provides a lightweight e-commerce solution for selling books, built with Next.js, React, Supabase, and Chakra UI.
 - **Exploring AI/ML models**, **Next.js / mobile-first apps**, and **interactive web dashboards**.  
 
 ---
@@ -80,14 +80,6 @@ VSCode | Android Studio | IntelliJ IDEA
 - TensorFlow / PyTorch experiments  
 - AI-assisted automation & ML pipelines  
 - Data analysis dashboards  
-
----
-
-#### 🎨 Design & Apps
-- Mobile-first UI/UX (Next.js / Tailwind / Chakra UI v3)  
-- Web dashboard & SaaS UI design  
-- Android apps & CLI tools  
-- Interactive charts, reports, and analytics  
 
 ---
 
