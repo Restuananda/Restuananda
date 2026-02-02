@@ -73,26 +73,6 @@ VSCode | Android Studio | IntelliJ IDEA
 
 </div>
 
----
-
-#### 🤖 AI & Model Work
-- Natural Language Processing (NLP) Bots  
-- TensorFlow / PyTorch experiments  
-- AI-assisted automation & ML pipelines  
-- Data analysis dashboards  
-
----
-
-#### 📈 Fun Stats
-<div align="center">
-⏳ Year progress |████████████████████████▁▁▁▁▁▁| 80.62 %  
-🌦 Weather: Light rain, +27°C, 94% humidity  
-⏰ Timezone: Asia/Jakarta  
-📍 Location: Bandung, Indonesia  
-</div>
-
----
-
 #### 📫 Connect with Me
 <p align="center">
 <a href="https://www.linkedin.com/in/restu-ananda-saputra/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
