@@ -1,15 +1,3 @@
-### Hi there
-* Welcome to my virtual workspace. I’m a competitive software engineer, full-stack developer, and AI enthusiast who thrives on building scalable, high-impact systems. With a strong focus on clean architecture, performance, and problem-solving, I enjoy turning complex ideas into practical, production-ready solutions—from backend services and modern web interfaces to data-driven and intelligent applications. This space reflects my mindset: continuous learning, technical excellence, and purposeful innovation. 
-
----
-
-#### 🔭 Currently Working On
-- **[Langgar.co - FE Developer](https:www.langgar.co)** – The task focuses on revamping an existing WordPress theme by updating its user interface and user experience from an outdated design to a modern, clean, and user-friendly experience.
-- **[singgasanakata.com - Web Developer](https:www.singgasanakat.com)** – This implementation provides a lightweight e-commerce solution for selling books, built with Next.js, React, Supabase, and Chakra UI.
-- **Exploring AI/ML models**, **Next.js / mobile-first apps**, and **interactive web dashboards**.  
-
----
-
 #### 🛠️ Tech Stack & Tools
 **Languages:**  
 💻 C | C++ | Java | Rust | Kotlin | Scala | Python | Go | Ruby | JavaScript | PHP | Dart | TypeScript
